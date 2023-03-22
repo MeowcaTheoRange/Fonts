@@ -1,6 +1,6 @@
 # The Changelog
 
-## TrollCall Regular v1.0.0
+## TrollCall Display v1.0.0
 * Made the font.
 
 ## Irken Simplified v2.12.1 (v2.0 on December 1st)
