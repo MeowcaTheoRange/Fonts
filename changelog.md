@@ -1,5 +1,10 @@
 # The Changelog
 
+## TrollCall Display v2.0.0
+
+* Fixed font. Added required Latin glyphs.
+* God, this is just SO MUCH BETTER.
+
 ## TrollCall Display v1.0.0
 * Made the font.
 

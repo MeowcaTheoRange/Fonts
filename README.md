@@ -1,15 +1,17 @@
 # Fonts
 
-## TrollCall Display v1.0.0
+## TrollCall Display v2.0.0
 
 The main font for TrollCall's titles, replacing Krona One.
 Is made to type in English script when put in ALL CAPS, and Alternian script when put into lowercase.
 
-Does not support display of dashes, percent signs, dollar signs, carat symbols, ampersands, or quotation marks, yet. None of these punctuation would be commonly found in a title on TrollCall, anyway.
+Made in FontStruct and Glyphr Studio.
 
 ## IrkenSimplified v2.12.1
 
 The will given to me by God to slap my dumbass during the ALOIRP days is strong. Enjoy the font, I guess.
+
+Types in Irken regardless of uppercase/lowercase status. 
 
 [ORIGINAL DESCRIPTION]
 
